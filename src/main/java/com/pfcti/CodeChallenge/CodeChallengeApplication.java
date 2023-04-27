@@ -11,6 +11,7 @@ import java.sql.SQLException;
 public class CodeChallengeApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CodeChallengeApplication.class, args);
 	}
 
